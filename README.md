@@ -18,7 +18,7 @@ as 4-bit bitmasks per cell, so the hex output format falls out for
 free. Ships as an installable package (`mazegen`), stdlib only,
 type-checked with mypy.
 
-**[Bloomie](https://github.com/keeper24/bloomie_app)** · JavaScript
+**[Bloomie_app](https://github.com/keeper24/bloomie_app)** · JavaScript
 Mobile-first skincare diagnostic web app — 7-question flow, rule-based
 recommendations, localStorage persistence. Vanilla JS, no framework,
 no build step. University project built end to end: spec, wireframes,
