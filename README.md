@@ -1,7 +1,7 @@
 # Buğra
 
 Computer Science student (3rd year) · student at **42 Warsaw**.
-I write mostly C and Python, with a side interest in front-end.
+I write mostly Python and C
 
 ---
 
