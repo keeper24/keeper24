@@ -33,5 +33,4 @@ Git · Make · Linux · TOML · Figma
 
 ---
 
-Turkish · English · Polish (learning)
-[LinkedIn](·) · [email](mailto:)
+Turkish · English
